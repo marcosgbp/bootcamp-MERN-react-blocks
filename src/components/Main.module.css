@@ -1,0 +1,10 @@
+.main{
+    background-color: #e06666;
+    height: auto;
+    width: 750px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 10px;
+}
